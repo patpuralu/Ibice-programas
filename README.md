@@ -188,12 +188,3 @@ Tipo IP              MAC                  Fabricante        Disp        Puertos
 * Escaneo de puertos limitado (timeout corto)
 * Optimizado más para Windows (`getmac`, `ping -n`)
 
----
-
-## Uso ético
-
-Este programa está diseñado para:
-
-* Auditar tu propia red
-* Detectar intrusos
-* NO usar en redes ajenas sin permiso
